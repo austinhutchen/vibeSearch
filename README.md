@@ -40,5 +40,5 @@ Whether users are in the mood for a cozy café, a lively bar, or a quiet park, o
 3.) Run docker compose up (include sudo based on permissions)<br/>
 4.) View test case results
 
-## Link to deployed application
+## Link to deployed application (coming soon)
 http://localhost:3000/
